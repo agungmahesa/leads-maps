@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.json
+*.png
+*.log
+test_*.py
+test_final.py
+restoran_results.csv
+restoran_results.xlsx
+bantul_test.csv
+test_apify.py
